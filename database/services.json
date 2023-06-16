@@ -1,0 +1,14 @@
+[
+  {
+    "id": "c80d1acd-e633-4392-b29b-cffb324cd8ad",
+    "name": "Hiking",
+    "image": "4446adcf-eded-4e8f-b758-d442f68f24cc.png",
+    "createdAt": "2023-06-16T07:02:22.986Z"
+  },
+  {
+    "id": "59baad08-2f07-45f6-b305-6cb0392aa3d6",
+    "name": "Rafting",
+    "image": "c5a0c018-b7aa-40e5-8c2b-ce0b206bb263.png",
+    "createdAt": "2023-06-16T08:03:14.378Z"
+  }
+]
